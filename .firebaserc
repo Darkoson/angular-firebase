@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "opdark-digital": {
+      "hosting": {
+        "angular-firebase": [
+          "opdark-digital"
+        ]
+      }
+    }
+  }
+}
